@@ -3,13 +3,13 @@
 - 🖥️ Desenvolvedor Front-End
 - 🔭 Em Busca Da Primeira Opurtunidade De Emprego!
 - 🌱 Estudando: HTML, PHP, CSS, JAVASCRIPTS
-- 🎓 Formando em Redes de Computadores
+- 🎓 Estudante em Redes de Computadores
 - 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/franciscofelipe-br">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=FranciscoFelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoFelipe&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=FranciscoFelipe&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoFelipe&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +18,8 @@
   <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Lipe-Linuxmint" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Lipe-Ubuntu" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="right" alt="Lipe-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/paSN7hpqlIIAAAAd/madara-naruto-shippuden-madara.gif?width=676&height=676">
 </div>
   
