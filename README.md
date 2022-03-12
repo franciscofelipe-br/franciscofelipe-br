@@ -10,8 +10,8 @@
 </br>
 <div align="center">
   <a href="https://github.com/franciscofelipe-br">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=franciscofelipe-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofelipe-br&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=franciscofelipe-br&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofelipe-br&layout=compact&langs_count=7&theme=radical"/>
 </div>
   </a>
 </p>
@@ -23,8 +23,8 @@
 <img  align="right" width="250" height="250" style="border-radius:30px;" src="madara-naruto-shippuden-madara.gif">
 <p> - 👨‍💻 Programador Front-End. </p>
 <p> - 👨‍🎓 Estudante de Redes De Computadores, atualmente estou cursando o 2° semestre. </p>
-<p> - 🎯 Interesse: Javascript, HTML, CSS, PHP </p>
-<p> - 📺 Gosto de Programar, Futebol, Games e Animes, Pricipalmente Naruto kkk  </p>
+<p> - 🎯 Interesse: Javascript, HTML, CSS, PHP. </p>
+<p> - 📺 Gosto de Programar, Futebol, Games e Animes, Pricipalmente Naruto kkk.  </p>
   
 </div>
 
