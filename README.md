@@ -18,13 +18,13 @@
 
 ## Olá, eu sou o Francisco Felipe! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Sobre mim
+### Sobre mim:
 <div style="display: inline_block"  >
 <img  align="right" width="250" height="250" style="border-radius:30px;" src="madara-naruto-shippuden-madara.gif">
 <p> - 👨‍💻 Programador Front-End. </p>
 <p> - 👨‍🎓 Estudante de Redes De Computadores, atualmente estou cursando o 2° semestre. </p>
 <p> - 🎯 Interesse: Javascript, HTML, CSS, PHP </p>
-<p> - Gosto de Programar, Futebol, Games e Animes, Pricipalmente Naruto kkk  </p>
+<p> - 📺 Gosto de Programar, Futebol, Games e Animes, Pricipalmente Naruto kkk  </p>
   
 </div>
 
@@ -73,8 +73,9 @@
  </p>
 
 </p>
-<br>
- ![Snake animation](https://github.com/franciscofelipe-br/franciscofelipe-br/blob/output/github-contribution-grid-snake.svg)
+
+
+![snake gif](https://github.com/franciscofelipe-br/franciscofelipe-br/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
