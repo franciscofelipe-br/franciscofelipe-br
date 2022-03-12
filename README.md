@@ -1,30 +1,30 @@
-</p>
-</br>
-</br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofelipe-br&layout=compact&langs_count=7&theme=dracula"
-    />
+  <a href="#">
+    <img align="center" width="400" src="perfil.jpg" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=franciscofelipe-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
+  <a href="#">
+    <img align="center" width="450" src="dev.gif" />
   </a>
 </p>
-## Olá, eu sou o Felipe! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+</br>
+</br>
+<div align="center">
+  <a href="https://github.com/franciscofelipe-br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscofelipe-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofelipe-br&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  </a>
+</p>
+
+## Olá, eu sou o Francisco Felipe! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img src="https://c.tenor.com/paSN7hpqlIIAAAAC/madara-naruto-shippuden-madara.gif">
+<img  align="right" width="250" height="250" style="border-radius:30px;" src="madara-naruto-shippuden-madara.gif">
 <p> - 👨‍💻 Programador Front-End. </p>
 <p> - 👨‍🎓 Estudante de Redes De Computadores, atualmente estou cursando o 2° semestre. </p>
 <p> - 🎯 Interesse: Javascript, HTML, CSS, PHP </p>
-<p> - Gosto de Futebol, Games e Animes, pricipalmente Naruto kkk  </p>
+<p> - Gosto de Programar, Futebol, Games e Animes, Pricipalmente Naruto kkk  </p>
   
 </div>
 
@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/francisco-felipe-60b5441b3/">
+    <a href="https://www.linkedin.com/in/francisco-felipe-/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
     </a>
 </p>
@@ -73,3 +73,4 @@
  </p>
 
 </p>
+
