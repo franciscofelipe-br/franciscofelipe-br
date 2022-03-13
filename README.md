@@ -23,7 +23,7 @@
 <img  align="right" width="250" height="250" style="border-radius:30px;" src="madara-naruto-shippuden-madara.gif">
 <p> - 👨‍💻 Programador Front-End. </p>
 <p> - 👨‍🎓 Estudante de Redes De Computadores, atualmente estou cursando o 2° semestre. </p>
-<p> - 🎯 Interesse: Javascript, HTML, CSS, PHP. </p>
+<p> - 🎯 Interesse: Javascript, HTML, CSS, TypeScript. </p>
 <p> - 📺 Gosto de Programar, Futebol, Games e Animes, Pricipalmente Naruto kkk.  </p>
   
 </div>
