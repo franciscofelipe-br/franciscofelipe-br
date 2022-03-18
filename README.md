@@ -24,7 +24,7 @@
 <p> - 👨‍💻 Programador Front-End. </p>
 <p> - 👨‍🎓 Estudante de Redes De Computadores, atualmente estou cursando o 2° semestre. </p>
 <p> - 🎯 Interesse: Javascript, HTML, CSS, TypeScript. </p>
-<p> - 📺 Gosto de Programar, Futebol, Games e Animes, Pricipalmente Naruto kkk.  </p>
+<p> - 📺 Gosto de Programar, Futebol, Games e Animes, Principalmente Naruto kkk.  </p>
   
 </div>
 
