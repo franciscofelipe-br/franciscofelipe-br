@@ -16,15 +16,15 @@
   </a>
 </p>
 
-## Olá, eu sou o Francisco Felipe! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá, eu sou o Francisco Felipe! 👋</h2>
 
 ### Sobre mim:
 <div style="display: inline_block"  >
-<img  align="right" width="250" height="250" style="border-radius:30px;" src="madara-naruto-shippuden-madara.gif">
+<img  align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/franciscofelipe-br/franciscofelipe-br/blob/main/giphy.gif">
 <p> - 👨‍💻 Programador Full Stack. </p>
 <p> - 👨‍🎓 Estudante de Redes De Computadores, atualmente estou cursando o 3° semestre. </p>
 <p> - 🎯 Habilidades: Java, Javascript, Salesforce, Python, Linux. </p>
-<p> - 📺 Gosto de Codar, Futebol, Games e Animes, Principalmente Naruto kkk.  </p>
+<p> - 📺 Gosto de Codar, Futebol e Games.  </p>
   
 </div>
 
