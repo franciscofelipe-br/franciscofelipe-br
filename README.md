@@ -21,20 +21,20 @@
 ### Sobre mim:
 <div style="display: inline_block"  >
 <img  align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/franciscofelipe-br/franciscofelipe-br/blob/main/giphy.gif">
-<p> - 👨‍💻 Programador Full Stack. </p>
+<p> - ☁️ Cloud Computing</p>
 <p> - 👨‍🎓 Estudante de Redes De Computadores, atualmente estou cursando o 3° semestre. </p>
-<p> - 🎯 Habilidades: Java, Javascript, Salesforce, Python, Linux. </p>
-<p> - 📺 Gosto de Codar, Futebol e Games.  </p>
+<p> - 🎯 Habilidades: AWS,Google Cloud, Azure, Oracle, Python, Linux. </p>
+<p> - 📺 Gosto De Aprender Coisas Novas.  </p>
   
 </div>
 
 ## Minhas skills :nerd_face:
 <div align="center">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
