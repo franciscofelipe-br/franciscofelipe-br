@@ -23,8 +23,8 @@
 <img  align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/franciscofelipe-br/franciscofelipe-br/blob/main/giphy.gif">
 <p> - ☁️ Cloud Computing</p>
 <p> - 👨‍🎓 Estudante de Redes De Computadores, atualmente estou cursando o 3° semestre. </p>
-<p> - 🎯 Habilidades: AWS,Google Cloud, Azure, Oracle, Python, Linux. </p>
-<p> - 📺 Gosto De Aprender Coisas Novas.  </p>
+<p> - 🎯 Habilidades: AWS, Google Cloud, Azure, Oracle, Python, Linux. </p>
+<p> - 📺 Gosto de resolve problemas e estou sempre buscando conhecimento.  </p>
   
 </div>
 
@@ -47,15 +47,15 @@
 
 <p align="center">
     <a href="https://github.com/franciscofelipe-br">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/franciscofelipe-br">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:f.felipe1928@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:f.felipe1928@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/francisco-felipe-/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/francisco-felipe-/">
     </a>
 </p>
 
