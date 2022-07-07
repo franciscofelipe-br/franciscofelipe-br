@@ -23,18 +23,18 @@
 <img  align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/franciscofelipe-br/franciscofelipe-br/blob/main/giphy.gif">
 <p> - 👨‍💻 Salesforce Developer</p>
 <p> - 👨‍🎓 Estudante de Redes De Computadores, atualmente estou cursando o 3° semestre. </p>
-<p> - 🎯 Habilidades: Salesforce, Apex, Python, Linux. </p>
+<p> - 🎯 Habilidades: Salesforce, Apex, Python, Linux, Java. </p>
 <p> - 📺 Gosto de resolve problemas e estou sempre buscando conhecimento.  </p>
   
 </div>
 
 ## Minhas skills :nerd_face:
 <div align="center">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img height="40" src="https://github.com/franciscofelipe-br/franciscofelipe-br/blob/main/salesforce.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
