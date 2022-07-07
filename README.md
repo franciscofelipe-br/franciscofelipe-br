@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="400" src="20220627_190052.jpg" />
+    <img align="center" width="400" src="Name.jpg" />
   </a>
   <a href="#">
     <img align="center" width="450" src="dev.gif" />
@@ -21,20 +21,20 @@
 ### Sobre mim:
 <div style="display: inline_block"  >
 <img  align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/franciscofelipe-br/franciscofelipe-br/blob/main/giphy.gif">
-<p> - ☁️ Cloud Computing</p>
+<p> - 👨‍💻 Salesforce Developer</p>
 <p> - 👨‍🎓 Estudante de Redes De Computadores, atualmente estou cursando o 3° semestre. </p>
-<p> - 🎯 Habilidades: AWS, Google Cloud, Azure, Oracle, Python, Linux. </p>
+<p> - 🎯 Habilidades: Salesforce, Apex, Python, Linux. </p>
 <p> - 📺 Gosto de resolve problemas e estou sempre buscando conhecimento.  </p>
   
 </div>
 
 ## Minhas skills :nerd_face:
 <div align="center">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
