@@ -10,12 +10,11 @@
 
 ### Sobre mim:
 <div style="display: inline_block"  >
-<img  align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/franciscofelipe-br/franciscofelipe-br/blob/main/Naruto GIF - Naruto - Descobrir e Compartilhar GIFs.gif">
+<img  align="right" width="250" height="200" style="border-radius:30px;" src="https://github.com/franciscofelipe-br/franciscofelipe-br/blob/main/Naruto GIF - Naruto - Descobrir e Compartilhar GIFs.gif">
 <p> - 👨‍💻 Front-end Developer</p>
 <p> - 👨‍🎓 Formado em Redes De Computadores pela Estácio. </p>
 <p> - 🎯 Skills: JavaScript, Python, Linux, Git, AWS, Salesforce. </p>
-<p> - 📺 Sempre aberto a novos desafios e oportunidades para mostrar o meu conhecimento e experiência.  </p>
-  
+<p> - 📺 Sempre aberto a novos desafios e oportunidades para mostrar o meu conhecimento e experiência.  </p>  
 </div>
 
 ## Minhas skills :nerd_face:
