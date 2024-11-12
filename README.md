@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img align="center" width="400" src="Name Profile.jpg" />
-  </a>
-  <a href="#">
-    <img align="center" width="450" src="dev.gif" />
-  </a>
-</p>
-</br>
-</br>
 <div align="center">
   <a href="https://github.com/franciscofelipe-br">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=franciscofelipe-br&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -20,25 +10,28 @@
 
 ### Sobre mim:
 <div style="display: inline_block"  >
-<img  align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/franciscofelipe-br/franciscofelipe-br/blob/main/giphy.gif">
-<p> - 👨‍💻 Salesforce Developer</p>
-<p> - 👨‍🎓 Estudante de Redes De Computadores, atualmente estou cursando o 4° semestre. </p>
-<p> - 🎯 Habilidades: Salesforce, Apex, Python, Linux, Git. </p>
-<p> - 📺 Gosto de resolve problemas e estou sempre buscando conhecimento.  </p>
+<img  align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/franciscofelipe-br/franciscofelipe-br/blob/main/Naruto GIF - Naruto - Descobrir e Compartilhar GIFs.gif">
+<p> - 👨‍💻 Front-end Developer</p>
+<p> - 👨‍🎓 Formado em Redes De Computadores pela Estácio. </p>
+<p> - 🎯 Skills: JavaScript, Python, Linux, Git, AWS, Salesforce. </p>
+<p> - 📺 Sempre aberto a novos desafios e oportunidades para mostrar o meu conhecimento e experiência.  </p>
   
 </div>
 
 ## Minhas skills :nerd_face:
 <div align="center">
-    <img height="40" src="https://github.com/franciscofelipe-br/franciscofelipe-br/blob/main/salesforce.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 </div>
 
 ## Meus contatos :iphone:
